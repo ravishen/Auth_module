@@ -105,7 +105,7 @@ class Ideone
 			isPresent = true;
 		}
 		if(isPresent) {
-			System.out.println(input+"  Failure Password cannot contain %!)(.");
+			System.out.println(input+" Failure Password cannot contain %!)(.");
 			return false;
 		}
 		return true;
